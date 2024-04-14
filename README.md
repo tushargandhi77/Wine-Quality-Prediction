@@ -1,6 +1,3 @@
-Sure, here's a template for a README file for your Streamlit app:
-
----
 
 # Wine Quality Prediction App
 
