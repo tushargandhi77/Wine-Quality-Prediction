@@ -1,6 +1,11 @@
 
 # Wine Quality Prediction App
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Overview
 This Streamlit application is designed to predict the quality of wine based on several features. Users can input values for various attributes of the wine, and the app will generate a prediction of the wine quality on a scale from 1 to 10.
 
